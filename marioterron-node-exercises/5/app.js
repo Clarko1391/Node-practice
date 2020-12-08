@@ -11,3 +11,4 @@ const newFile = (fp = `newFile.txt`, data = `This is a default value, this file 
 }
 
 newFile(`anotherNewFile.txt`, `this content was passed as an argument`);
+

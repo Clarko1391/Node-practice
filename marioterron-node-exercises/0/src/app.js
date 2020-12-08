@@ -10,11 +10,13 @@ const {timeStamp} = require('./phase3/timestamp')
 // product();
 
 const a = 5;
-const b = 10;
+const b = 0;
 
 addition(a, b);
 
 multiplication(a, b);
+
+division(a, b)
 
 // subtraction(a, b);
 
